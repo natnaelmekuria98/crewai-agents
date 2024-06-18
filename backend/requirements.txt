@@ -1,0 +1,8 @@
+crewai
+gradio
+langchain-openai
+langchain-community
+langchain-core
+duckduckgo-search
+pydantic
+crewai_tools 
